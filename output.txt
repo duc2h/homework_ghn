@@ -1,0 +1,20 @@
+Result of breadth fisrt search: 
+1 2 3 5
+Result of deep fisrt search: 
+1 2 4 3 5
+1 2 4 3 6 5
+1 2 4 6 5
+1 2 4 6 3 5
+1 2 3 5
+1 2 3 4 6 5
+1 2 3 6 5
+Result of breadth fisrt search: 
+1 2 3 5
+Result of deep fisrt search: 
+1 2 4 3 5
+1 2 4 3 6 5
+1 2 4 6 5
+1 2 4 6 3 5
+1 2 3 5
+1 2 3 4 6 5
+1 2 3 6 5

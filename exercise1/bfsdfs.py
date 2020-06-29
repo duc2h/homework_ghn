@@ -47,7 +47,7 @@ class Graph:
                 if next_node == self.E:
                     results.append(path + [next_node])
                     f = open(fileName, 'a')
-                    f.write("Result of deep fisrt search: ")
+                    f.write("Result of breadth fisrt search: ")
                     for result in results:
                         f.write("\n")
                         f.write(self.listToString(result))

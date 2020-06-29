@@ -21,7 +21,7 @@ if __name__ == "__main__":
     # map with combined key
     print("map with combined key")
     graph4 = dictionary.Graph("input.txt")
-    graph3.printGraph()
+    graph4.printGraph()
 
     # BFS and DFS
     print("BFS and DFS")
